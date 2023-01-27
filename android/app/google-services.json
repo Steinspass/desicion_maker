@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "961609328461",
+    "project_id": "desicionmakerapp",
+    "storage_bucket": "desicionmakerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961609328461:android:2052dc1d073155e985f904",
+        "android_client_info": {
+          "package_name": "com.bunkalogic.desicionmakerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961609328461-q7cnbiocfqktis0d1o1659tscjtot5ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bunkalogic.desicionmakerapp",
+            "certificate_hash": "e38a8f4c8e1eca41a7083cca4a4facb5abfae3e6"
+          }
+        },
+        {
+          "client_id": "961609328461-vr7r2c8hpag0o3k1e5hrqsmdqq6roai8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bunkalogic.desicionmakerapp",
+            "certificate_hash": "bdd90d0be9335b39d6f9c9d2ca168c53ac565543"
+          }
+        },
+        {
+          "client_id": "961609328461-543gr2eob9389sh5bqvc2q6ursv9gu7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj8RfOyhj4xn5vQ4hax90f6EaVPwQjtis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961609328461-543gr2eob9389sh5bqvc2q6ursv9gu7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961609328461-rfsf6cr4fmgtlkkesh6gc4u74f6f4bng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.desicionMakerApp"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6667428027256827~1744862014"
+    }
+  ],
+  "configuration_version": "1"
+}
