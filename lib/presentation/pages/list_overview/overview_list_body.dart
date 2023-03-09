@@ -10,7 +10,6 @@ import 'package:desicion_maker_app/presentation/pages/list_overview/widgets/crit
 import 'package:desicion_maker_app/presentation/pages/list_overview/widgets/dialog_remove_list_widget.dart';
 import 'package:desicion_maker_app/presentation/pages/list_overview/widgets/empty_list_pros_cons_widget.dart';
 import 'package:desicion_maker_app/presentation/pages/list_overview/widgets/error_card_list_widget.dart';
-import 'package:desicion_maker_app/presentation/pages/list_overview/widgets/filter_row_widget.dart';
 import 'package:desicion_maker_app/presentation/widgets/card_item_widget.dart';
 import 'package:desicion_maker_app/presentation/widgets/native_ads_widget.dart';
 import 'package:flutter/material.dart';
@@ -100,9 +99,9 @@ class _BuildOverviewListBodyState extends State<BuildOverviewListBody> {
             return Column(
               children: [
                 SizedBox(height: 2.h,),
-                FilterRowWidget(selectedList: (p0) {
+                // FilterRowWidget(selectedList: (p0) {
                   
-                },),
+                // },),
                 NativeAdsWidget(unitId: 'ca-app-pub-6667428027256827/4714091541' ),
                 Expanded(
                   child: ListView.builder(
